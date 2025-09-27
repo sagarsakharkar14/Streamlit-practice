@@ -118,5 +118,3 @@ elif end_before_start(start_date, end_date):
 else:
     display_dashboard(start_date, end_date, target)
 
-
-    
